@@ -1,2 +1,2 @@
 ## Skjáskot GÖGN
-![gögn](/img/gogn.png.png)
+![gögn](/img/gogn.png)
